@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQHAMaQp97hbFg/profile-displaybackgroundimage-shrink_350_1400/0/1667996974908?e=1679529600&v=beta&t=KvlxiuCORGuirS9swhvvIfrXgnUpNVQorpYB3ty6XTg)](https://aashishvardhan.github.io)
+[![](https://media.licdn.com/dms/image/C5616AQHAMaQp97hbFg/profile-displaybackgroundimage-shrink_350_1400/0/1667996974908?e=1679529600&v=beta&t=KvlxiuCORGuirS9swhvvIfrXgnUpNVQorpYB3ty6XTg)](https://aashishvardhan.github.io)
 <h1 align="center">Hello 👋, I'm Ganesh</h1>
 <h3 align="center">Currently pursing Electronics and computer science</h3>
 
